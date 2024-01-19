@@ -29,6 +29,6 @@ https://github.com/RVC-Boss/GPT-SoVITS/assets/129054828/05bee1fa-bdd8-4d85-9350-
 
 ![GitHub stars](https://img.shields.io/github/stars/tyc0on/GPT-SoVITS-colab?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/EasyaiStudio?style=social)
-![Discord](https://img.shields.io/discord/CNjh5Pc3ap?label=Join%20us%20on%20Discord&logo=discord&style=social)
+![Discord](https://img.shields.io/discord/1142755015371530250?label=Join%20us%20on%20Discord&logo=discord&style=social)
 
 ---
