@@ -4,14 +4,14 @@ Welcome to the GPT-SoVITS Colab Notebook, crafted by tyc0on! This repository is 
 
 ---
 
+## 🚀 Quick Start
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tyc0on/GPT-SoVITS-colab/blob/main/GPT-SoVITS-colab.ipynb) - Easily run GPT-SoVITS on Google Colab with this notebook!
+
 ## 📢 Stay Updated
 
 - 🐦 For updates on this Colab notebook, follow me: https://twitter.com/EasyaiStudio
 - 💬 Join our community on Discord: https://discord.gg/CNjh5Pc3ap
-
-## 🚀 Quick Start
-
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tyc0on/GPT-SoVITS-colab/blob/main/GPT-SoVITS-colab.ipynb) - Easily run GPT-SoVITS on Google Colab with this notebook!
 
 ## 🙏 Original GPT-SoVITS Repository
 
